@@ -9,3 +9,5 @@ menu:
 tst
 
 ![](images/minion-brush-bot-lbcb2.png)
+
+![](1643967197278.jpg)
